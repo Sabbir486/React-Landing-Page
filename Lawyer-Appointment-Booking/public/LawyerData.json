@@ -1,0 +1,122 @@
+[
+  {
+    "id": "001",
+    "image": "https://i.ibb.co.com/271M35W7/6M.jpg",
+    "name": "Matt Murdock",
+    "speciality": "Criminal Expert",
+    "experience": "8",
+    "license_number": "BD 3829948",
+    "consultation_fee": 3000,
+    "availability": "Sunday, Wednesday, Tuesday, Friday, Saturday"
+  },
+  {
+    "id": "002",
+    "image": "https://i.ibb.co.com/xSnqcDgH/9M.jpg",
+    "name": "Samiul Karim",
+    "speciality": "Property Law",
+    "experience": "12",
+    "license_number": "BD 3857466",
+    "consultation_fee": 2500,
+    "availability": "Tuesday, Friday, Wednesday"
+  },
+  {
+    "id": "003",
+    "image": "https://i.ibb.co.com/1G6Y9zJy/8F.jpg",
+    "name": "Nilufa Sultana",
+    "speciality": "Intellectual Property Law",
+    "experience": "9",
+    "license_number": "BD 3845476",
+    "consultation_fee": 2000,
+    "availability": "Sunday, Wednesday, Thursday, Tuesday"
+  },
+  {
+    "id": "004",
+    "image": "https://i.ibb.co.com/p66xmJwH/4M.jpg",
+    "name": "Rezaul Haque",
+    "speciality": "Intellectual Property Law",
+    "experience": "4",
+    "license_number": "BD 3805235",
+    "consultation_fee": 2000,
+    "availability": "Sunday, Tuesday, Saturday, Friday"
+  },
+  {
+    "id": "005",
+    "image": "https://i.ibb.co.com/1Y9nfNp2/5F.webp",
+    "name": "Tania Ahmed",
+    "speciality": "Family Law",
+    "experience": "14",
+    "license_number": "BD 3833231",
+    "consultation_fee": 2000,
+    "availability": "Friday, Saturday, Monday, Thursday, Wednesday"
+  },
+  {
+    "id": "006",
+    "image": "https://i.ibb.co.com/S4dg1ZZp/3M.jpg",
+    "name": "Mehedi Hasan",
+    "speciality": "Intellectual Property Law",
+    "experience": "10",
+    "license_number": "BD 3816909",
+    "consultation_fee": 3000,
+    "availability": "Thursday, Wednesday, Friday, Sunday"
+  },
+  {
+    "id": "007",
+    "image": "https://i.ibb.co.com/hJcSPnt0/3F.jpg",
+    "name": "Farzana Chowdhury",
+    "speciality": "Environmental Law",
+    "experience": "6",
+    "license_number": "BD 3817308",
+    "consultation_fee": 1200,
+    "availability": "Tuesday, Wednesday, Thursday, Sunday, Friday"
+  },
+  {
+    "id": "008",
+    "image": "https://i.ibb.co.com/VYP1tHPV/5M.jpg",
+    "name": "Nayeem Islam",
+    "speciality": "Environmental Law",
+    "experience": "10",
+    "license_number": "BD 3863532",
+    "consultation_fee": 3000,
+    "availability": "Saturday, Friday, Monday, Thursday, Sunday"
+  },
+  {
+    "id": "009",
+    "image": "https://i.ibb.co.com/9Hc0PQNV/32F.jpg",
+    "name": "Sharmin Akter",
+    "speciality": "Intellectual Property Law",
+    "experience": "12",
+    "license_number": "BD 3844060",
+    "consultation_fee": 1800,
+    "availability": "Wednesday, Monday, Sunday"
+  },
+  {
+    "id": "010",
+    "image": "https://i.ibb.co.com/TNtWhH9/2M.jpg",
+    "name": "Fahim Reza",
+    "speciality": "Civil Rights Law",
+    "experience": "4",
+    "license_number": "BD 3833203",
+    "consultation_fee": 1200,
+    "availability": "Sunday, Friday, Thursday, Tuesday"
+  },
+  {
+    "id": "011",
+    "image": "https://i.ibb.co.com/mkFyZ9K/1F.jpg",
+    "name": "Lubaba Sayeed",
+    "speciality": "Family Law",
+    "experience": "4",
+    "license_number": "BD 3894638",
+    "consultation_fee": 2500,
+    "availability": "Friday, Thursday, Sunday"
+  },
+  {
+    "id": "012",
+    "image": "https://i.ibb.co.com/ksLQdQqh/360-F-295967926-T2n-Unmh-Qc00dwwp3-Ksv-JSPHMP2xhekry.jpg",
+    "name": "Mahmudul Hasan",
+    "speciality": "Criminal Law",
+    "experience": "5",
+    "license_number": "BD 3886897",
+    "consultation_fee": 2000,
+    "availability": "Wednesday, Monday, Saturday, Friday"
+  }
+]
